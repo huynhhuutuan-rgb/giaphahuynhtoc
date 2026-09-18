@@ -1,0 +1,8 @@
+{
+  "name": "Gia Phả Đại Tộc - Sơ Đồ & Quản Lý Dòng Họ",
+  "description": "Ứng dụng trực quan hóa và quản lý sơ đồ cây gia phả dòng họ trực quan, hỗ trợ nhập xuất Excel/CSV/JSON, chỉnh sửa trực quan, thống kê thế hệ và sao lưu phục hồi dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
